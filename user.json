@@ -1,0 +1,18 @@
+{
+  "firstName": "Василь",
+  "lastName": "Літвінов",
+  "languages": [
+    {
+      "title": "NodeJS",
+      "level": "Початковий"
+    },
+    {
+      "title": "HTML/CSS",
+      "level": "Достатній"
+    },
+    {
+      "title": "JavaScript",
+      "level": "Junior"
+    }
+  ]
+}

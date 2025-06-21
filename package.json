@@ -1,0 +1,23 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "Лабораторна робота 1 – вивід імені користувача ОС",
+  "main": "task03.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "os",
+    "user",
+    "greeting",
+    "lab01"
+  ],
+  "author": "Василь Літвінов",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^18.0.0"
+  }
+}
